@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Time of Pi
+title: Great-7 
 subtitle: ''
 description: ''
 keywords:
-author: Foo
+author: 小滔
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://foopi.top
+url: https://great-7.github.io
 permalink: posts/:abbrlink/
 permalink_defaults:
 pretty_urls:
@@ -118,7 +118,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:lucifer9735/lucifer9735.github.io.git
+  repo: git@github.com:Great-7/Great-7.github.io.git
   branch: ghpages
 
 # SEO
